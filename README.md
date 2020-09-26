@@ -20,5 +20,5 @@
 
 <p align="center">
 <a href="https://www.jasonbeh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jasonbeh.com-yellow?style=flat-square&logo=globe"></a>
-<a href="https://www.linkedin.com/in/jason-beh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jason%20Behm%20-yellow?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jason-beh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jason%20Beh%20-yellow?style=flat-square&logo=linkedin"></a>
 </p>
