@@ -1,16 +1,24 @@
-### Hi there 👋
+![Profile Header](header.png)
 
-<!--
-**behjieshen/behjieshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Jason Beh.</h2>
 
-Here are some ideas to get you started:
+<h3> 😎 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤  &nbsp; Exploring new technologies and developing software.
+- 🎓 &nbsp; Rising Freshman of Computer Science(Advanced) at University of Adelaide.
+- 💡  &nbsp; Interested in Machine Learning & Software Architecture.
+- 🌱 &nbsp; Currently grinding Leetcode.
+- 😊 &nbsp; Open to internships and learning opportunities.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; HTML | CSS | JavaScript | Node.js | React | Python | Redux
+- 🛢 &nbsp; MongoDB
+- 🔧 &nbsp; Git | Markdown | Gulp
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.jasonbeh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jasonbeh.com-yellow?style=flat-square&logo=globe"></a>
+<a href="https://www.linkedin.com/in/jason-beh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jason%20Behm%20-yellow?style=flat-square&logo=linkedin"></a>
+</p>
